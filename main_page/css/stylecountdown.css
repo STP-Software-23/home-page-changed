@@ -1,0 +1,154 @@
+/* head font */
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+/* head section font */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+/* .class1, .class2, .class3 {
+    background-color: #80191c;
+    border-radius: 50px;
+    width: 80%;
+    padding-bottom: 7rem;
+}
+
+.line11, .line12, .line13 {
+    width: 60px;
+    height: 15px;
+    background-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px 5px;
+}
+
+.line21, .line31, .line22, .line32, .line23, .line33 {
+    width: 15px;
+    height: 15px;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 5px 5px;
+}
+
+.slider1, .slider2, .slider3 {
+    display: flex;
+    position: absolute;
+    left: 70%;
+    transform: rotate(90deg);
+}
+
+.myimage {
+    position: relative;
+    right: 20%;
+}
+
+.btn {
+    border-radius: 18px;
+}
+
+.header-img {
+    width: 100%;
+    height: 800px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    margin: auto;
+    color: #b61313;
+}
+
+hr {
+    display: block;
+    height: 10px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    background-color: #b61313;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.details {
+    margin: auto;
+    color: #888;
+    font-size: 24px;
+}
+
+
+
+.rad {
+    border-radius: 55px;
+}
+
+legend {
+    font-size: 2.5rem;
+}
+
+.my_legend {
+    font-family: 'Lato', sans-serif;
+}
+
+.border {
+    border: 1px solid #c71313 !important;
+}
+
+.p1, .h2 {
+    color: white !important
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.img-block {
+    margin-top: 10%;
+} */
+
+/* @media (max-width:996px) {
+    .img_col {
+        position: relative;
+        left: 25%;
+    }
+    .nour {
+        margin-top: -10% !important;
+        border-radius: 20px;
+    }
+} */
+
+/*Workshop title font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&display=swap');
+/* discreption font */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@600&family=Krub&display=swap');
+
+
+
+
+
+
+
+@media (max-width:767px) {
+    
+  
+    .countdown-container{
+		width:100%;
+	      
+	     top:20%;
+	 
+     } 
+     .clock-item
+     {
+         width:45%;
+     }
+     .text .val {
+		font-size: 30px;
+	}
+	
+	.text .type-time {
+		font-size: 12px;
+	} 
+  
+}
+
